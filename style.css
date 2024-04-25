@@ -601,7 +601,7 @@ td {
     left: 0;
     width: 100%;
     /* Ensure box spans entire width of container */
-    background-color: rgba(21, 20, 20, 0.989);
+    background-color: rgb(236 73 73 / 70%);
     /* Semi-transparent black background */
     color: #fff;
     /* Text color */
@@ -628,7 +628,7 @@ td {
     margin-top: 10px;
     margin-left: 30px;
     width: 100%;
-    background-color: rgba(21, 20, 20, 0.989);
+    background-color: rgb(236 73 73 / 70%);
     /* Adjust the background color and opacity */
     color: white;
     padding: 30px;
@@ -654,7 +654,7 @@ td {
     bottom: 0;
     left: 0;
     width: 100%;
-    background-color: rgba(21, 20, 20, 0.989);
+    background-color: rgb(236 73 73 / 70%);
     /* Adjust the background color and opacity */
     color: white;
     padding: 30px;
@@ -681,7 +681,7 @@ td {
     bottom: 0;
     right: 0.1vw;
     width: 100%;
-    background-color: rgba(21, 20, 20, 0.989);
+    background-color: rgb(236 73 73 / 70%);
     /* Adjust the background color and opacity */
     color: white;
     padding: 30px;
