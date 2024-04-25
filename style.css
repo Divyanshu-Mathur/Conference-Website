@@ -590,6 +590,7 @@ td {
 }
 
 .image1 {
+    border: 3px solid black;
     width: 20vw;
     height: 70vh;
 }
@@ -617,6 +618,7 @@ td {
 }
 
 .image2 {
+    border: 3px solid black;
     width: 20vw;
     height: 70vh;
 }
@@ -644,6 +646,7 @@ td {
 }
 
 .image3 {
+    border: 3px solid black;
     width: 20vw;
     height: 70vh;
 }
@@ -671,6 +674,7 @@ td {
 }
 
 .image4 {
+    border: 3px solid black;
     width: 20vw;
     height: 70vh;
 }
